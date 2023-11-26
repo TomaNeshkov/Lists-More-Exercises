@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Drum Set", "5. Drum Set\5. Drum Set.csproj", "{74D177CC-9CCF-45F4-A0B4-E24A35EF7BDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74D177CC-9CCF-45F4-A0B4-E24A35EF7BDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74D177CC-9CCF-45F4-A0B4-E24A35EF7BDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74D177CC-9CCF-45F4-A0B4-E24A35EF7BDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74D177CC-9CCF-45F4-A0B4-E24A35EF7BDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C2EB66-AC46-4B32-9B42-3E7894DE5852}
+	EndGlobalSection
+EndGlobal
